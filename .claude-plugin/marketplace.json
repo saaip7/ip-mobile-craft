@@ -1,0 +1,21 @@
+{
+  "name": "flutter-mobile-design-marketplace",
+  "owner": {
+    "name": "Syaifullah H",
+    "email": "s4aip.hm9@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "flutter-mobile-design",
+      "source": "./",
+      "description": "Expert Flutter mobile development skill with Material Design 3 focus. Build beautiful, production-grade Flutter apps with best practices.",
+      "strict": false,
+      "keywords": ["flutter", "dart", "mobile", "material-design-3", "riverpod", "android", "ios"],
+      "skills": ["./skills/flutter-mobile-design"]
+    }
+  ],
+  "metadata": {
+    "description": "Marketplace for Flutter Mobile Design skill - create distinctive Flutter apps with Material Design 3",
+    "version": "0.1.0"
+  }
+}

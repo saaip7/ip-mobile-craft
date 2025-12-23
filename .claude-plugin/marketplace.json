@@ -1,5 +1,5 @@
 {
-  "name": "flutter-mobile-design-marketplace",
+  "name": "mobile-design-marketplace",
   "owner": {
     "name": "Syaifullah H",
     "email": "s4aip.hm9@gmail.com"
@@ -12,10 +12,18 @@
       "strict": false,
       "keywords": ["flutter", "dart", "mobile", "material-design-3", "riverpod", "android", "ios"],
       "skills": ["./skills/flutter-mobile-design"]
+    },
+    {
+      "name": "react-native-mobile-design",
+      "source": "./",
+      "description": "Expert React Native mobile development skill with modern best practices. Build beautiful, performant cross-platform apps for iOS and Android with Zustand, NativeWind, and React Navigation.",
+      "strict": false,
+      "keywords": ["react-native", "typescript", "mobile", "zustand", "nativewind", "expo", "android", "ios"],
+      "skills": ["./skills/react-native-mobile-design"]
     }
   ],
   "metadata": {
-    "description": "Marketplace for Flutter Mobile Design skill - create distinctive Flutter apps with Material Design 3",
-    "version": "0.1.0"
+    "description": "Marketplace for Mobile Design skills - Flutter and React Native development with best practices",
+    "version": "0.2.0"
   }
 }

@@ -1,6 +1,6 @@
-# Mobile Design Marketplace - Claude Code Plugin
+# ip-mobile-craft - Claude Code Plugin
 
-Claude Code skills for creating distinctive, production-grade mobile applications with Flutter and React Native.
+Crafted mobile development skills for Flutter and React Native by [@saaip7](https://github.com/saaip7).
 
 ## Available Skills
 
@@ -32,10 +32,10 @@ Expert React Native development with modern best practices.
 2. Install the skills:
 ```bash
 # Flutter skill
-/plugin install flutter-mobile-design@mobile-design-marketplace
+/plugin install flutter-mobile-design@ip-mobile-craft
 
 # React Native skill
-/plugin install react-native-mobile-design@mobile-design-marketplace
+/plugin install react-native-mobile-design@ip-mobile-craft
 ```
 
 ## Usage Examples
@@ -53,7 +53,7 @@ Expert React Native development with modern best practices.
 ## What's Included
 
 ```
-mobile-design-marketplace/
+ip-mobile-craft/
 ├── .claude-plugin/
 │   └── marketplace.json
 ├── skills/

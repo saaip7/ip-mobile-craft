@@ -260,4 +260,8 @@ class ProductCard extends StatelessWidget {
 }
 ```
 
+## Restricted
+
+NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+
 NEVER generate generic, boilerplate Flutter code. Each implementation should feel crafted for its specific purpose with thoughtful Material Design 3 application and attention to detail.

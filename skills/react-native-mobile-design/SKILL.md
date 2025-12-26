@@ -157,4 +157,8 @@ export const ProductCard = memo(function ProductCard({ item, onPress }: Props) {
 });
 ```
 
+## Restricted
+
+NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+
 Generate distinctive, crafted React Native code. Avoid generic boilerplate.

@@ -26,7 +26,7 @@ Expert React Native development with modern best practices.
 
 1. Add the marketplace:
 ```bash
-/plugin marketplace add saaip7/flutter-mobile-design
+/plugin marketplace add saaip7/ipdev-mobileApps-skill
 ```
 
 2. Install the skills:

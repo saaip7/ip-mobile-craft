@@ -1,4 +1,4 @@
-# ip-mobile-craft - Claude Code Plugin
+# ipdev-mobileApps-skill - Claude Code Plugin
 
 Crafted mobile development skills for Flutter and React Native by [@saaip7](https://github.com/saaip7).
 
@@ -32,10 +32,10 @@ Expert React Native development with modern best practices.
 2. Install the skills:
 ```bash
 # Flutter skill
-/plugin install flutter-mobile-design@ip-mobile-craft
+/plugin install flutter-mobile-design@ipdev-mobileApps-skill
 
 # React Native skill
-/plugin install react-native-mobile-design@ip-mobile-craft
+/plugin install react-native-mobile-design@ipdev-mobileApps-skill
 ```
 
 ## Usage Examples
@@ -53,7 +53,7 @@ Expert React Native development with modern best practices.
 ## What's Included
 
 ```
-ip-mobile-craft/
+ipdev-mobileApps-skill/
 ├── .claude-plugin/
 │   └── marketplace.json
 ├── skills/

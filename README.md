@@ -50,6 +50,9 @@ Expert React Native development with modern best practices.
 - "Create a product list with FlashList"
 - "Set up navigation with React Navigation"
 
+> [!TIP]
+> If the feature is not triggered automatically, explicitly specify that you want to use the `flutter-mobile-design` skill in the prompt.
+
 ## What's Included
 
 ```
